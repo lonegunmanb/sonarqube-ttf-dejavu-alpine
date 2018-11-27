@@ -1,0 +1,2 @@
+# Add font so we can use SVG Badge plugin
+when we use origin sonarqube alpine image, we'll encounter an NPE when we tried to install SVG Badge plugin. According to [issue-44](https://github.com/QualInsight/qualinsight-plugins-sonarqube-badges/issues/44) we can add an font to fix it.
